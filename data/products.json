@@ -1,3 +1,92 @@
 [
-    
+	{
+		"id": 1,
+		"title": "Pepsi",
+		"description": "Refresco",
+		"price": 15,
+		"code": 4512,
+		"stock": 20,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 2,
+		"title": "Sabritas",
+		"description": "Papas",
+		"price": 15,
+		"code": 9863,
+		"stock": 30,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 3,
+		"title": "CocaCola",
+		"description": "Refresco",
+		"price": 16.5,
+		"code": 8563,
+		"stock": 41,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 4,
+		"title": "Chettoss",
+		"description": "Papas",
+		"price": 12.5,
+		"code": 3145,
+		"stock": 35,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 5,
+		"title": "Gansito",
+		"description": "Bimbo",
+		"price": 22.5,
+		"code": 3645,
+		"stock": 20,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 6,
+		"title": "Sol clara",
+		"description": "Cerveza",
+		"price": 21.5,
+		"code": 7852,
+		"stock": 30,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 7,
+		"title": "Indio",
+		"description": "Cerveza",
+		"price": 22.55,
+		"code": 7415,
+		"stock": 30,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 8,
+		"title": "PallMall",
+		"description": "Cigarros",
+		"price": 48.5,
+		"code": 6078,
+		"stock": 10,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 9,
+		"title": "Malboro",
+		"description": "Cigarros",
+		"price": 64.5,
+		"code": 2055,
+		"stock": 12,
+		"thumbnail": "Sin imagen"
+	},
+	{
+		"id": 10,
+		"title": "XX",
+		"description": "Cerveza",
+		"price": 25,
+		"code": 8950,
+		"stock": 20,
+		"thumbnail": "Sin imagen"
+	}
 ]

@@ -1,0 +1,22 @@
+{
+  "name": "03_desafio",
+  "version": "1.0.0",
+  "description": "03_Desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanAfterAllV/03_Desafio.git"
+  },
+  "author": "V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumanAfterAllV/03_Desafio/issues"
+  },
+  "homepage": "https://github.com/HumanAfterAllV/03_Desafio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

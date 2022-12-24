@@ -162,7 +162,7 @@ class ProductManager
     async getProductsShow()
     {
         const showProducts = await this.getProducts();
-        console.table(showProducts);
+        return showProducts;
     }
 
 }
